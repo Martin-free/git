@@ -10,3 +10,4 @@ if __name__ == "__main__":
     # 打印测试信息
     print(greet("开发者"))
     print("当前状态：文件已创建，准备提交到 Git 仓库。")
+    print("苹果")
